@@ -1,3 +1,6 @@
+/**
+ * @author Alejandro Esteban
+ */
 
 import java.io.File;
 public class FUtil {
